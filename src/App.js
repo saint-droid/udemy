@@ -10,6 +10,8 @@ import LearnMoreBar from "./Components/LearnMoreBar";
 import TopCourses from "./Components/TopCourses";
 import TopProducts from "./Components/TopProducts";
 import Footer from "./Components/Footer";
+import RecomendHead from "./Components/RecomendHead";
+import Recomended from "./Components/Recomended";
 
 const Container = styled.div`
 
@@ -34,7 +36,10 @@ function App() {
       <TopProducts/>
       <LearnMoreBar/>
       <Products/>
+      <RecomendHead/>
+      <Recomended/>
       <TopCourses/>
+      
       <TopProducts/>
       </ContainerInnner>
       <Footer/>

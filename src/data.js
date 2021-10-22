@@ -208,3 +208,54 @@ export const Topproducts  = [
         likes:"4.0"
     },
     ]
+    export const Recomend  = [
+        {
+            id:1,
+            name:"Web development",
+        },
+        {
+            id:2,
+            name:"Mern Stack",
+        },
+        {
+            id:3,
+            name:"App development",
+        },
+        {
+            id:4,
+            name:"Web design",
+        },
+        {
+            id:5,
+            name:"Marketing",
+        },
+        {
+            id:6,
+            name:"Mongo DB",
+        },
+        {
+            id:7,
+            name:"Django",
+        },
+        {
+            id:8,
+            name:"React",
+        },
+        {
+            id:9,
+            name:"Node JS",
+        },
+        {
+            id:10,
+            name:"Full Stack development",
+        },
+        {
+            id:11,
+            name:"Express",
+        },
+        {
+            id:12,
+            name:"PHP",
+        },
+        
+        ]
