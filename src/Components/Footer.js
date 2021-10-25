@@ -109,10 +109,10 @@ const Footer = () => {
                     
                 </Left>
                 <Right>
-                 <FaApple size="60"/>
-                 <FaGoogle size="60"/>
-                 <FaFacebookSquare size="60"/>
-                 <FaWordpress size="60"/>
+                 <FaApple size="30"/>
+                 <FaGoogle size="30"/>
+                 <FaFacebookSquare size="30"/>
+                 <FaWordpress size="30" />
                 </Right>
             </Option>
             <Option>

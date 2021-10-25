@@ -1,4 +1,28 @@
-import React from 'react'
+ <NavbarDownItem>Business</NavbarDownItem>
+           <NavbarDownItem>Finance & accounting</NavbarDownItem>
+           <NavbarDownItem>It & software</NavbarDownItem>
+           <NavbarDownItem>Office productivity</NavbarDownItem>
+           <NavbarDownItem>Personal development</NavbarDownItem>
+           <NavbarDownItem>Design</NavbarDownItem>
+           <NavbarDownItem>Marketing</NavbarDownItem>
+           <NavbarDownItem>Health & fitness</NavbarDownItem>
+           <NavbarDownItem>Music</NavbarDownItem>
+
+
+            [
+                    {
+                        item:"Development",
+                        
+                    },
+                    {
+                        item:"Development",
+                        
+                    },
+                ]
+                {/*&:hover ${Dropdown}{
+    opacity:1;
+    }*/}
+    import React from 'react'
 import styled from 'styled-components';
 //import "./style.css";
 import {navigation, navigationList} from '../data'
@@ -30,8 +54,7 @@ color:black;
 text-decoration:none;
 padding:10px 15px;
 font-weight:300;
-padding:10px 20px;
-cursor:pointer;
+
 `
 
 const DropdownHeader = styled.a`

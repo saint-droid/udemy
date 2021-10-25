@@ -20,6 +20,8 @@ padding:14px 16px;
 border:2px solid black;
 margin:12px 10px 12px 0;
 cursor:pointer;
+transition:all 0.5s ease;
+
 &:hover{
     background-color:black;
     color:white; 

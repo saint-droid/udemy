@@ -29,7 +29,13 @@ color:black;
 padding:10px 12px;
 border:none;
 margin-right:10px;
+transition:all 0.5s ease;
 
+&:hover{
+    background-color:black;
+    color:white;
+    border:1px solid white;
+}
 `
 
 const Dismiss = styled.button`
@@ -38,7 +44,11 @@ color:white;
 padding:10px 12px;
 border:1px solid white;
 margin-right:10px;
-
+&:hover{
+    background-color:white;
+    color:black;
+    border:none;
+}
 
 `
 const H1 = styled.h1`

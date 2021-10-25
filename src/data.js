@@ -259,3 +259,104 @@ export const Topproducts  = [
         },
         
         ]
+        export const navigation  = [
+            {
+                id:1,
+                name:"Business",
+                desc:"Development"
+                
+
+            },
+            {
+                id:2,
+                name:" Finance & accounting",
+                desc:"Development"
+            },
+            {
+                id:3,
+                name:"It & software",
+                desc:"Development"
+            },
+            {
+                id:4,
+                name:"Office productivity",
+                desc:"Development"
+            },
+            {
+                id:5,
+                name:"Personal development",
+                desc:"Development"
+            },
+            {
+                id:6,
+                name:"Design",
+                desc:"Development"
+            },
+            {
+                id:7,
+                name:"Marketing",
+                desc:"Development"
+            },
+            {
+                id:9,
+                name:"Health & fitness",
+                desc:"Development"
+            },
+            {
+                id:10,
+                name:"Music",
+                desc:"Development"
+            },
+            
+            ]
+            export const navigationList  = [
+                {
+                    id:1,
+                    inner:"Web development",
+                },
+                {
+                    id:2,
+                    inner:"Mern Stack",
+                },
+                {
+                    id:3,
+                    name:"App development",
+                },
+                {
+                    id:4,
+                    name:"Web design",
+                },
+                {
+                    id:5,
+                    name:"Marketing",
+                },
+                {
+                    id:6,
+                    name:"Mongo DB",
+                },
+                {
+                    id:7,
+                    name:"Django",
+                },
+                {
+                    id:8,
+                    name:"React",
+                },
+                {
+                    id:9,
+                    name:"Node JS",
+                },
+                {
+                    id:10,
+                    name:"Full Stack development",
+                },
+                {
+                    id:11,
+                    name:"Express",
+                },
+                {
+                    id:12,
+                    name:"PHP",
+                },
+                
+                ]

@@ -116,7 +116,7 @@ const Products = ()=> {
           </InnerSection>
           <InnerSection>
               {item.likes}
-              <Star/>
+              <Star fontSize="10px"/>
               <Star/>
               <Star/>
               <Star/>

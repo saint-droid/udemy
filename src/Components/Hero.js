@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components';
-import hero from "../assets/hero.jpg"
+import hero from "../assets/udemy1.jpg"
 
 const Container=styled.div`
 

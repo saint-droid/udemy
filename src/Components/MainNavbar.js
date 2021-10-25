@@ -104,9 +104,14 @@ const RightItem = styled.div`
 font-weight:400;
 font-size:14px;
 font-family:arial,sans-serif;
-padding:0 8px;
+padding:10px 8px;
 cursor:pointer;
+transition:all 0.3s ease;
 
+&:hover{
+    
+    border-top:1px solid black;
+}
 `
 const MainNavbar = () => {
     return (
